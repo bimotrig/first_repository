@@ -1,0 +1,10 @@
+a = int(input("enter the first number:"))
+b = int(input("enter the second number:"))
+results = a+b
+print(a,"+",b, "=", results)
+results = a-b
+print(a, "-", b, "=", results)
+results = a*b
+print(a, "*", b, "=", results)
+results=a/b
+print(a, "/", b, "=", results)
