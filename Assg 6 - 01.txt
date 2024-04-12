@@ -1,0 +1,11 @@
+Number 1
+
+Input (): This function is used to take input from the user through the keyboard. It waits for the user to input some data and press Enter before returning the input as a string.
+
+Print(): This function is used to display output to the console or terminal. It takes the data passed to it as arguments and prints it to the standard output (usually the console).
+
+Write(): This function is typically associated with file handling. It is used to write data to a file. It takes a string (or a byte string) as input and writes it to the file.
+
+Read(): This function is used to read a specified number of bytes from a file. It reads the specified number of bytes from the file starting from the current file position.
+
+Readline(): This function is used to read a single line from a file. It reads characters from the file until it encounters a newline character ('\n') or reaches the end of the file.

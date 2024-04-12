@@ -1,0 +1,3 @@
+Number 3
+
+tb is both a text file and a binary file mode publication: This description seems to mix elements of text mode ('t') and binary mode ('b'), but the combination 'tb' as an open mode for files doesn't exist in Python. Typically, you would choose either 't' for text mode or 'b' for binary mode, not both simultaneously.
